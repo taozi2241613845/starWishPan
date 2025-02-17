@@ -1,0 +1,18 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: 'MicrosoftYaHei';
+	font-style: inherit;
+	font-size: 100%;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.link-color{
+	color:#007fff;
+}
+/* 去除超链接下划线 */
+a{
+	text-decoration: none;
+}
